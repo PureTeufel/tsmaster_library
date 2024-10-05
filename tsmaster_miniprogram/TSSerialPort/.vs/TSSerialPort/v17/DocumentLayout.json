@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B98D79E3-6276-443F-982B-29F39F7EF35F}|TSSerialPort.vcxproj|D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\TSSerialPort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B98D79E3-6276-443F-982B-29F39F7EF35F}|TSSerialPort.vcxproj|solutionrelative:TSSerialPort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98D79E3-6276-443F-982B-29F39F7EF35F}|TSSerialPort.vcxproj|D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\TSSerialPortExtern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B98D79E3-6276-443F-982B-29F39F7EF35F}|TSSerialPort.vcxproj|solutionrelative:TSSerialPortExtern.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98D79E3-6276-443F-982B-29F39F7EF35F}|TSSerialPort.vcxproj|D:\\WORKS\\TSMASTER_LIBRARY\\TSMASTER_MINIPROGRAM\\TSSERIALPORT\\LIBSERIALPORT\\LIBSERIALPORT_INTERNAL.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B98D79E3-6276-443F-982B-29F39F7EF35F}|TSSerialPort.vcxproj|solutionrelative:LIBSERIALPORT\\LIBSERIALPORT_INTERNAL.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98D79E3-6276-443F-982B-29F39F7EF35F}|TSSerialPort.vcxproj|D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\TSMasterBaseSource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B98D79E3-6276-443F-982B-29F39F7EF35F}|TSSerialPort.vcxproj|solutionrelative:TSMasterBaseSource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "libserialport_internal.h",
+              "DocumentMoniker": "D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\libserialport\\libserialport_internal.h",
+              "RelativeDocumentMoniker": "libserialport\\libserialport_internal.h",
+              "ToolTip": "D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\libserialport\\libserialport_internal.h",
+              "RelativeToolTip": "libserialport\\libserialport_internal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-04T10:57:25.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TSMasterBaseSource.cpp",
+              "DocumentMoniker": "D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\TSMasterBaseSource.cpp",
+              "RelativeDocumentMoniker": "TSMasterBaseSource.cpp",
+              "ToolTip": "D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\TSMasterBaseSource.cpp",
+              "RelativeToolTip": "TSMasterBaseSource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-04T04:55:15.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TSSerialPortExtern.cpp",
+              "DocumentMoniker": "D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\TSSerialPortExtern.cpp",
+              "RelativeDocumentMoniker": "TSSerialPortExtern.cpp",
+              "ToolTip": "D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\TSSerialPortExtern.cpp",
+              "RelativeToolTip": "TSSerialPortExtern.cpp",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAhwP8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T15:46:06.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TSSerialPort.cpp",
+              "DocumentMoniker": "D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\TSSerialPort.cpp",
+              "RelativeDocumentMoniker": "TSSerialPort.cpp",
+              "ToolTip": "D:\\Works\\tsmaster_library\\tsmaster_miniprogram\\TSSerialPort\\TSSerialPort.cpp",
+              "RelativeToolTip": "TSSerialPort.cpp",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAuwG4BAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-25T15:45:09.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

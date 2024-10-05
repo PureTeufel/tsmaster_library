@@ -1,0 +1,9 @@
+﻿  Database.cpp
+  TSSerialPort.cpp
+  TSSerialPortExtern.cpp
+  TSMasterBaseSource.cpp
+  TSMasterCustomAPIDoc.cpp
+  Generating Code...
+     Creating library F:\Workspace\Item_Reference\YF\557E\TS_PRJ\bin\TSSerialPort.lib and object F:\Workspace\Item_Reference\YF\557E\TS_PRJ\bin\TSSerialPort.exp
+TSSerialPort.exp : warning LNK4070: /OUT:TSSerialPort.dll directive in .EXP differs from output filename 'F:\Workspace\Item_Reference\YF\557E\TS_PRJ\bin\TSSerialPort.mp64'; ignoring directive
+  TSSerialPort.vcxproj -> F:\Workspace\Item_Reference\YF\557E\TS_PRJ\bin\TSSerialPort.mp64
